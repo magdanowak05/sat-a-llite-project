@@ -30,7 +30,7 @@ const Index = () => {
       <img 
         src={satelliteDish} 
         alt="Satellite dish" 
-        className="absolute bottom-0 left-0 w-48 h-48 opacity-80 floating"
+        className="absolute bottom-0 left-0 w-48 h-48 opacity-80"
       />
       
       {/* Main content */}
